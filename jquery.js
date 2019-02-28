@@ -1,5 +1,5 @@
 // JavaScript File
-const rahmel= "Rahmel"
+var rahmel= "Rahmel"
 ("#FN").click(function(){
     ("#name").text(rahmel);
    

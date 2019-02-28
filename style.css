@@ -1,4 +1,8 @@
-button{
+.row{
     display:flex;
     justify-content:space-around;
+}
+body{
+    background:url("https://www.pixelstalk.net/wp-content/uploads/2016/07/1080p-Cool-Wallpapers-HD-For-Desktop.jpg");
+    color:purple;
 }
