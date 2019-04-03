@@ -1,8 +1,34 @@
-.row{
+.row_footer{
     display:flex;
     justify-content:space-around;
 }
 body{
     background:url("https://www.pixelstalk.net/wp-content/uploads/2016/07/1080p-Cool-Wallpapers-HD-For-Desktop.jpg");
     color:purple;
+}
+#welcome{
+    display:flex;
+    justify-content:center;
+}
+.row_mid{
+    display:flex;
+    justify-content:space-around;
+}
+.headshot{
+    display:flex;
+    justify-content:center;
+    
+}
+.row_aboutme{
+    display:flex;
+    justify-content:center;
+}
+.row_contact{
+    display:flex;
+    justify-content:space-around;
+}
+.description{
+    width:300px;
+    display:flex;
+    justify-content:center;
 }
