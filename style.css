@@ -3,8 +3,8 @@
     justify-content:space-around;
 }
 body{
-    background:url("https://www.pixelstalk.net/wp-content/uploads/2016/07/1080p-Cool-Wallpapers-HD-For-Desktop.jpg");
-    color:purple;
+    background:url("http://getwallpapers.com/wallpaper/full/8/5/6/552860.jpg");
+    color:cyan;
 }
 #welcome{
     display:flex;
@@ -28,7 +28,11 @@ body{
     justify-content:space-around;
 }
 .description{
-    width:300px;
+    display:flex;
+    justify-content:center;
+    padding:200px;
+}
+.sdd{
     display:flex;
     justify-content:center;
 }
